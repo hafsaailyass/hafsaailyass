@@ -141,13 +141,17 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 <div align="left">
 
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsaailyass&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
+<!-- Using shields.io for basic stats -->
+<img src="https://img.shields.io/github/followers/hafsaailyass?style=for-the-badge&color=ce09ec&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/hafsaailyass?style=for-the-badge&color=ce09ec&label=Stars" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/last-commit/hafsaailyass/hafsaailyass?style=for-the-badge&color=ce09ec&label=Last%20Commit" alt="Last Commit" />
+<img src="https://img.shields.io/github/contributors/hafsaailyass/hafsaailyass?style=for-the-badge&color=ce09ec&label=Contributors" alt="Contributors" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaailyass&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsaailyass&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=hafsaailyass&theme=react-dark&hide_border=true&area=true)
+<!-- Compact Stats -->
+<div>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafsaailyass&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsaailyass&layout=compact&theme=algolia" alt="Languages"/>
+</div>
 
 </div>
 
@@ -186,11 +190,27 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 </p>
 
 <details>
-<summary>📈 <b>GitHub Metrics</b></summary>
+<summary>📈 <b>Alternative Stats View</b></summary>
 <br>
+
+<!-- Alternative badges using shields.io -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/hafsaailyass?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKarachi" alt="GitHub Metrics">
+  <img src="https://img.shields.io/github/followers/hafsaailyass?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/hafsaailyass?style=for-the-badge&color=blue&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/hafsaailyass/hafsaailyass?style=for-the-badge&color=blue&label=Last%20Commit" alt="Last Commit" />
 </p>
+
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsaailyass&theme=github_dark" alt="Profile Details" width="100%" />
+</p>
+
+<!-- Activity Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsaailyass&theme=github_dark&utcOffset=5" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsaailyass&theme=github_dark" alt="Most Commit Language" width="49%" />
+</p>
+
 </details>
 
 <!--
