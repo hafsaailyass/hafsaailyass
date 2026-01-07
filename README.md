@@ -1,4 +1,4 @@
-## Hi there 👋
+![waving hand](https://path-to-your-gif.gif) Hi, I'm Hafsa
 
 <!--
 **hafsaailyass/hafsaailyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
