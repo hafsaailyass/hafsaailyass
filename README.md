@@ -141,12 +141,6 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 <div align="left">
 
-<!-- Using shields.io for basic stats -->
-<img src="https://img.shields.io/github/followers/hafsaailyass?style=for-the-badge&color=ce09ec&label=Followers" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/hafsaailyass?style=for-the-badge&color=ce09ec&label=Stars" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/last-commit/hafsaailyass/hafsaailyass?style=for-the-badge&color=ce09ec&label=Last%20Commit" alt="Last Commit" />
-<img src="https://img.shields.io/github/contributors/hafsaailyass/hafsaailyass?style=for-the-badge&color=ce09ec&label=Contributors" alt="Contributors" />
-
 <!-- Compact Stats -->
 <div>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafsaailyass&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
