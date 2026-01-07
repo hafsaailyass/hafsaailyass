@@ -139,13 +139,13 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 ## 📊 **GitHub Analytics**
 
-<div align="left">
+<div align="center">
 
-<!-- Compact Stats -->
-<div>
+<!-- Stats in one row -->
+<p align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafsaailyass&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsaailyass&layout=compact&theme=algolia" alt="Languages"/>
-</div>
+</p>
 
 </div>
 
@@ -178,10 +178,6 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafsaailyass&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
 <details>
 <summary>📈 <b>Alternative Stats View</b></summary>
